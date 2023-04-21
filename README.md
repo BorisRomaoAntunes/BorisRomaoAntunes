@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨🏿‍💻  Olá eu sou o Boris e estou aprendedo  Swift com Paul Hudson no *100 Days of Swift*
-   👨🏿‍💻 Hi, I'm Boris currently learning on language Swift with Paul Hudson in your couser *100 days of Swift*
+## 👨🏿‍💻  Olá eu sou o Boris e estou aprendedo  Swift com Paul Hudson em seu curso  *100 Days of Swift*
+   👨🏿‍💻 Hi, I'm Boris currently learning the Swift language with Paul Hudson on his *100 Days of Swift course*
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
