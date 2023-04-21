@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **BorisRomaoAntunes/BorisRomaoAntunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👨🏿‍💻  Olá eu sou o Boris e estou aprendedo  Swift com Paul Hudson no *100 Days of Swift*
+   👨🏿‍💻 Hi, I'm Boris currently learning on language Swift with Paul Hudson in your couser *100 days of Swift*
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+</div>
