@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨🏿‍💻  Olá, sou o Boris estou me desenvolvendo na carreira de desenvovedor IOS. 
-*Desafios são sempre bem-vindos 🚀*
-   👨🏿‍💻 Hi, I'm Boris currently learning the Swift language with Paul Hudson on his *100 Days of Swift course*
+## 👨🏿‍💻  E aí! Eu sou o Boris. Por enquanto estou aprendendo e melhorando minhas habilidades de desenvolvedor. Estou aqui para mudar minha vida! E o futura é top!🚀*
+   👨🏿‍💻 Whats up!I'm Boris. For now I'm learning and improving my developer skills. I'm here to change my life! It's a pleasure!
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
