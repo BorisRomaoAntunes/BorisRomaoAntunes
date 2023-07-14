@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨🏿‍💻  E aí! Eu sou o Boris. Por enquanto estou aprendendo e melhorando minhas habilidades de desenvolvedor. Estou aqui para mudar minha vida! E o futura é top!🚀*
-   👨🏿‍💻 Whats up!I'm Boris. For now I'm learning and improving my developer skills. I'm here to change my life! It's a pleasure!
+## 👨🏿‍💻  E aí! Eu sou o Boris. Por enquanto estou aprendendo e melhorando minhas habilidades de desenvolvedor. Estou aqui para mudar minha vida! O futura é top!🚀*
+   👨🏿‍💻 Whats up!I'm Boris. For now I'm learning and improving my developer skills. The future is top!
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 </div>
