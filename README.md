@@ -3,7 +3,7 @@
  _Sinta-se à vontade para conferir meus projetos do GitHub também!_ 📁"
 
 # 👨🏿‍💻 Hey there! 👋 I'm Boris,
-### 🇺🇸 "I'm leveling up my skills in Swift and SwiftUI app development! 💻📱🚀
+### "🇺🇸 "I'm leveling up my skills in Swift and SwiftUI app development! 💻📱🚀
    _Feel free to check out my GitHub projects too!_ 📁
    
 <table>
