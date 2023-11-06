@@ -1,5 +1,5 @@
 # 👨🏿‍💻  Olá sou o Boris,
-###"🇧🇷 estou aprimorando minhas habilidades no desenvolvimento de aplicativos Swift e SwiftUI!  💻📱🚀"
+### "🇧🇷 estou aprimorando minhas habilidades no desenvolvimento de aplicativos Swift e SwiftUI!  💻📱🚀"
  _Sinta-se à vontade para conferir meus projetos do GitHub também!_ 📁"
 
 # 👨🏿‍💻 Hey there! 👋 I'm Boris,
